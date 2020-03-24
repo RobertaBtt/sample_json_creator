@@ -1,0 +1,58 @@
+{
+   "currentVersion": 0.1,
+   "experimental" : true,
+   "device":{
+      "UUID":"34346bdb-7fa8-452b-8cb7-e1f862de9075",
+      "id" : "",
+      "hardware": "Atmel SAM3X8E",
+      "software": "firmware 0.1",
+      "name": "Nayad_V0.1"
+   },
+   "date":{
+     "begin" : "2020-06-12T13:37:27+00:00",
+     "end" :   "2020-06-12T13:41:15+00:00",
+     "format" : "UCT"
+   },
+   "sender":{
+    "name" : "ICT Team",
+    "organizazion" : "United Nations",
+    "contact" : "environment.department@un.org"  
+   },
+   "site":{
+      "latitude":"37°42'44.1",
+      "longitude":"77°08'46.9",
+      "name":"Queen County, Virginia, Hydrologic Unit 02080106",
+      "type":"River",
+      "id": ""
+   },
+   "objects":[
+      {
+         "code":"cond",
+         "display":"conductivity",
+         "definition":"",
+         "unity":"ñs/cm",
+         "value":""
+      },
+      {
+         "code":"PH",
+         "display":"PH",
+         "definition":"",
+         "unity":"",
+         "value":""
+      }
+   ],
+   "attachments":[
+      {
+         "media_url":"/public/bonito/2020-06-12T16:37.png",
+         "contentType":"image/png",
+         "width":"450",
+         "height":"300"
+      },
+     {
+         "media_url":"/public/bonito/2020-06-12T17:37.mp4",
+         "contentType":"video/mp4",
+         "width":"",
+         "height":""
+      }
+   ]
+}
